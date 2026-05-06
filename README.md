@@ -38,3 +38,5 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=harinikurebayashi&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harinikurebayashi&layout=compact&langs_count=7&theme=dracula"/>
 </p>
+
+![Snake animation](https://github.com/harinikurebayashi/harinikurebayashi/blob/output/github-contribution-grid-snake.svg)
