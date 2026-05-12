@@ -14,7 +14,7 @@
 
 ## :hammer_and_pick: Tecnologias e ferramentas
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,mysql,vscode,git,github"/>
+<img src="https://skillicons.dev/icons?i=java,python,mysql,javascript,nodejs,vscode,git,github"/>
 </p>
 
 ## :books: Cursos realizados
