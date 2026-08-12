@@ -5,7 +5,7 @@
 :hospital: Estagiária em Sistemas no Hospital Nipo-brasileiro
 
 
-:mortar_board: Estudante de Análise e Desenvolvimento de Sistemas - 2º Semestre
+:mortar_board: Estudante de Análise e Desenvolvimento de Sistemas - 3º Semestre
 
 
 :computer: Apaixonada por tecnologia!
