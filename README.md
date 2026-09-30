@@ -2,13 +2,13 @@
 
 ## :sparkles: Sobre mim
 
-:hospital: Estagiária em Sistemas no Hospital Nipo-brasileiro
+:hospital: Estagiária em Dados e Analytics no Hospital Israelita Albert Einstein
 
 
 :mortar_board: Estudante de Análise e Desenvolvimento de Sistemas - 3º Semestre
 
 
-:computer: Apaixonada por tecnologia!
+:computer: Apaixonada por tecnologia e saúde!
 
 ![](https://media.tenor.com/GD9UKMwnxYIAAAAM/ngoding-mulu.gif)
 
